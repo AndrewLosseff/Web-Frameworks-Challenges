@@ -2,7 +2,7 @@
 
 Welcome to the Web Frameworks Challenges repository! This collection of challenges is designed to help you enhance your skills in various web frameworks. Whether you're a Vue enthusiast, React aficionado, Angular pro, or exploring newer frameworks like Svelte, Solid, or Qwick, we've got challenges tailored for you.
 
-## Why bother do this challenge?
+## Why bother to do this challenge?
 
 Doing the same challenge with different frameworks is an effective strategy for developers aiming to broaden their skill set, deepen their understanding of web development, make informed technology choices, and stay adaptable in an ever-evolving field.
 
