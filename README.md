@@ -38,3 +38,8 @@ Doing the same challenge with different frameworks is an effective strategy for 
 ## Qwick Challenges
 1.  **Challenge 1: New Years Countdown**
     - Description: Your task is to create a New Years countdown app. It should meet the following requirements.
+
+
+## Contributing
+
+Feel free to contribute additional challenges, improvements, or corrections to existing challenges. Check out our [contribution guidelines](CONTRIBUTING.md) for more details.
